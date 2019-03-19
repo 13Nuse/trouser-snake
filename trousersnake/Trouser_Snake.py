@@ -15,6 +15,9 @@ TODO:
 import pygame
 import random
 
+import settings
+import models
+
 # starts pygame
 pygame.init()
 clock = pygame.time.Clock()
